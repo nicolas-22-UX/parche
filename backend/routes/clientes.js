@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-var db = require('../Db');
+var db = require('../db');
 
 
 
